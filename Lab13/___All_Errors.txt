@@ -1,0 +1,32 @@
+CorrelationId: 038291a2-039e-4fee-a42b-f8602b011d70
+UTC DateTime: 05/24/2023 09:48:32
+
+The following file/folder has not been downloaded
+0. Lab12 - notite.pdf
+
+
+1.bisection method si
+2. false position converg spre o radacina sigur
+una ia mijlocul dintre 2
+altele uneste dreptele
+
+
+3. metoda secantei nu stii exact daca va da rezultatul bun sau nu
+4. metoda lui Newton
+
+panta e data in laboratorul cu Hermite
+
+
+criteriul punctului de pornire - criteriul lui newton de a alge punctelee
+
+Metoda aproximarilor succesive(e(x) = x)
+
+de interes:
+* ordinul de convergenta es
+
+primul care nu e 0 da ordinul de convergenta
+
+Fast incerse square root
+
+
+
